@@ -1,0 +1,4 @@
+﻿  Server_Analysis_Proj.cpp
+c:\users\zonghua\desktop\软件杯\server_analysis_proj1.0\server_analysis_proj\server_analysis_proj\server_analysis_proj.cpp(283): warning C4101: “pRet”: 未引用的局部变量
+c:\users\zonghua\desktop\软件杯\server_analysis_proj1.0\server_analysis_proj\server_analysis_proj\server_analysis_proj.cpp(282): warning C4101: “nReadNum”: 未引用的局部变量
+  Server_Analysis_Proj.vcxproj -> C:\Users\ZongHua\Desktop\软件杯\Server_Analysis_Proj1.0\Server_Analysis_Proj\Debug\Server_Analysis_Proj.exe

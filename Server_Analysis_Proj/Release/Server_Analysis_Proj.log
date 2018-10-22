@@ -1,0 +1,11 @@
+﻿  DataBase.cpp
+  Server_Analysis_Proj.cpp
+c:\users\zonghua\desktop\cnsoft\server_analysis_proj_threadpool\server_analysis_proj\server_analysis_proj.cpp(57): warning C4838: 从“double”转换到“float”需要收缩转换
+c:\users\zonghua\desktop\cnsoft\server_analysis_proj_threadpool\server_analysis_proj\server_analysis_proj.cpp(57): warning C4305: “初始化”: 从“double”到“float”截断
+c:\users\zonghua\desktop\cnsoft\server_analysis_proj_threadpool\server_analysis_proj\server_analysis_proj.cpp(162): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码
+  3 of 773 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    10 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Server_Analysis_Proj.vcxproj -> C:\Users\ZongHua\Desktop\Cnsoft\Server_Analysis_Proj_ThreadPool\Release\Server_Analysis_Proj.exe
