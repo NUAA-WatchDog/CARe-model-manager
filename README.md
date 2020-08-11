@@ -1,6 +1,6 @@
 # CARe-model-manager
 
-🤖 Model manager of *CARe*.
+💼 Model manager of *CARe*.
 
 2018.03 - 2018.08, Nanjing
 
