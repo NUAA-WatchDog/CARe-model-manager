@@ -1,53 +1,30 @@
-# care-model-manager
+# CARe-model-manager
 
-The model manager part of CARe.
+🤖 Model manager of *CARe*.
 
-Author : Mr Dk. Coop. with _ZongHua_, _Lewis_
+2018.03 - 2018.08, Nanjing
 
-Created : 2018.6.30, Nanjing, Jiangsu
+---
 
-Updated : 2018.8.31, Nanjing, Jiangsu
+## About
 
-------
+Product of 7th *China Sofeware Cup* competition. The Model manager of *CARe*.
 
-### About
+It is the manager for generating and maintaining data model of users. It is developed on [*Microsoft Visual Studio*](https://visualstudio.microsoft.com/zh-hans/) 2017 with C/C++, and running on [*Microsoft Windows Server*](https://partner.microsoft.com/zh-cn/solutions/microsoft-windows-server) 2016.
 
-- The manager for generating & maintaining model for users
-  - Project of _ModelManager_ running on server
-  - Developer : _ZongHua_
-  - IDE : `Microsoft Visual Studio 2017`
-  - Programming language : `C` & `C++`
-  - Environment : `Microsoft Windows Server 2016`
+## Authors
 
-------
+[![](https://github.com/mrdrivingduck.png?size=50)](https://github.com/mrdrivingduck)
+[![](https://github.com/zonghuaxiansheng.png?size=50)](https://github.com/zonghuaxiansheng)
+[![](https://github.com/Lewis-Lu.png?size=50)](https://github.com/Lewis-Lu)
 
-### Documents
+## Documentation
 
-- See `docs/`
+See `docs/`.
 
-------
+## License
 
-### Updated - 2018.7.29
+Copyright © 2018, Jingtang Zhang, Hua Zong, Hong Lu. ([MIT License](LICENSE))
 
-- Contributor : _ZongHua_
-- New features :
-  - Refactor the module `ModelManager` in the way of __Thread Pool__
-    - Less cost in creating a thread
-    - Improved the performance of handling requests in concurrence situation
-
-------
-
-### Updated - 2018.8.28
-
-- Contributor : _ZongHua, Mr Dk._
-- New features :
-  - Add grid.py script to find the best arguments for SVM training
-
-------
-
-### Updated - 2018.8.31
-
-- Updated all modules
-
-------
+---
 
