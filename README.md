@@ -8,7 +8,7 @@
 
 ## About
 
-Product of 7th *China Sofeware Cup* competition. The Model manager of *CARe*.
+Product of 7th [*China Sofeware Cup*](http://www.cnsoftbei.com/) competition. The Model manager of *CARe*.
 
 It is the manager for generating and maintaining data model of users. It is developed on [*Microsoft Visual Studio*](https://visualstudio.microsoft.com/zh-hans/) 2017 with C/C++, and running on [*Microsoft Windows Server*](https://partner.microsoft.com/zh-cn/solutions/microsoft-windows-server) 2016.
 
